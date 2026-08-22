@@ -9,7 +9,7 @@ Hi 👋, I'm Mirion Kiboma
 🌟 About Me
 💡 I teach coding and mentor young girls in tech  
 🚀 Currently building: **School Management System**  
-🌱 Learning: JavaScript, AI, and advanced web development  
+🌱 Learning: Go, AI, and backend development  
 🎯 Goal: To use technology to solve real-world problems  
 
 🛠️ Tech Stack
